@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Css/style.css">
+    <title>Document</title>
+</head>
+
+
+<body>
+    <header>
+    <!--En esta primera parte encontramos la imagen de fondo 
+    El logo y los titulos el small, el h1 y los bubbles que son las borbujas 
+    que nos dan el efecto de agua puedes colocar todas las que desees 
+    Tendriamos un div general llamado hero y dentro de ese tenemos tres div mas 
+    para un mejor manejo en los css-->
+
+    <div class="hero">
+         <div class="navbar">
+             <img src="images/logo.png" alt="Logo">
+         </div> 
+         <div class="content">
+             <small>Welcome to Our</small>
+             <h1>World's<br>Creative Studio</h1>
+             <button type="button">Take a Tour</button>
+         </div>
+         <div class="bubbles">
+            <img src="images/bubble.png" alt="bubble">
+            <img src="images/bubble.png" alt="bubble">
+            <img src="images/bubble.png" alt="bubble">
+            <img src="images/bubble.png" alt="bubble">
+            <img src="images/bubble.png" alt="bubble">
+            <img src="images/bubble.png" alt="bubble">
+            <img src="images/bubble.png" alt="bubble">
+        </div>
+    </div>
+
+         <!-- En esta Segunda parte tenemos el sidebar o menu
+              que es nuestra barra lateral izquierda en la que tenemos 
+              Un div general que es side-bar y varios sub div donde
+              colocamos el menu y nuestras diferentes redes sociales 
+              Que estan con sus respectivos enlaces  -->
+         <div class="side-bar">
+            <nav>
+                <a href="#" id="icono" class="icono">Menu</a>
+                <div class="enlaces uno" id="enlaces">
+                    <a href="#">About</a>
+                    <a href="#">Contact</a>
+                    <a href="#">Projects</a>
+                </div>
+            </nav>
+            
+            <!--En esta parte encontramos las redes sociales de nuestro sidebar 
+                con sus respectivos enlaces -->
+            <div class="social-links">
+                <div class="social-item">
+                    <a href="https://github.com/JDQN" target="_blank"><img src="images/github.png"></a>
+                 </div>
+
+                 <div class="social-item">
+                    <a href="https://www.linkedin.com/feed/" target="_blank"><img src="images/linkedin.png"></a>
+                 </div>
+
+                 <div class="social-item">
+                  <a href="https://twitter.com/JDN55" target="_blank"><img src="images/Twitter.png"></a>
+               </div>
+
+               <div class="social-item">
+                  <a href="https://www.google.com/webhp?authuser=1" target="_blank"><img src="images/gmail.png"></a>
+               </div> 
+            </div>
+            
+            <!--En esta parte tenems dos imagenes mas solo estan las
+            imagenes no tienen enlace las puedes modificar y colocarles 
+            enlace como las redes sociales en este proyecto las dejamos desabiltadas-->
+            <div class="useful-links">
+               <img src="images/info.png" alt="Info">
+               <img src="images/share.png" alt="Share">
+           </div>
+         </div>
+     </header> 
+    
+     <!--Esta parte es muy importante por que nos ayuda a que 
+         nuestro efecto del menu se haga realidad este fracmento de codigo
+         lo saque de la sigiente pagina web https://bennettfeely.com/clippy/ 
+         Es una muy buena erramienta -->
+    <div class="wave">
+        <div style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M0.00,49.98 C149.99,150.00 349.20,-49.98 500.00,49.98 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: rgb(255, 255, 255);"></path></svg></div>
+    </div>
+     
+    <!-- Y este seria el js de nuestro efecto menu -->
+    <script src="Js/script.js"></script>
+</body>
+</html>
