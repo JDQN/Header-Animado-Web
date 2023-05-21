@@ -18,4 +18,4 @@ De ante mano disculpas por si hay algo mal en el código entendiendo que asta ah
 
 <h4>NOTA: El proyecto tiene aportes propios que no aparecen en el tutorial</h4>
 
-<img src="">
+<img src="https://github.com/JDQN/Header-Animado-Web/blob/main/img.png?raw=true">
