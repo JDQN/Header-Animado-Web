@@ -1,5 +1,4 @@
 # Sitio-web -> Header-animado
-# Proyecto 03
 
 Aquí realizamos un pequeño sitio web  donde animamos las burbujas en un Header.
 Espero este Header animado pueda servir para tus proyectos.  
@@ -17,5 +16,5 @@ Te dejo en mi repositorio todos los archivos espero sea de gran ayuda 
 Si puedes mejorar el código está genial.
 De ante mano disculpas por si hay algo mal en el código entendiendo que asta ahora estoy empezando a realizar algunos proyecto.
 
-<h3>NOTA: El proyecto tiene aportes propios que no aparecen en el tutorial</h3>
+<h4>NOTA: El proyecto tiene aportes propios que no aparecen en el tutorial</h4>
 
