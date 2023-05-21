@@ -8,8 +8,8 @@ Los iconos que utilice los saque de la siguiente página web -> https://www.fla
 La imagen del background la saqué de -> Image credit: https://www.freepik.com/ 
 El efecto de onda lo, saque con la ayuda de la página web https://bennettfeely.com/clippy/ con esta página puedes crear diferentes formas.
 
-# Los créditos de la idea del diseño los saque del tutorial
-# https://www.youtube.com/watch?v=CZTCciHE72I 
+Los créditos de la idea del diseño los saque del tutorial
+https://www.youtube.com/watch?v=CZTCciHE72I 
 El canal se llama Easy Tutorials.
 El canal es 100% en Ingles lo Bueno es que para mí ha sido todo un reto. 
 Entendiendo que mi nivel de ingles es muy básico pero esto me ha ayudado a  mejorar en algo mi ingle técnico.
@@ -17,8 +17,5 @@ Te dejo en mi repositorio todos los archivos espero sea de gran ayuda 
 Si puedes mejorar el código está genial.
 De ante mano disculpas por si hay algo mal en el código entendiendo que asta ahora estoy empezando a realizar algunos proyecto.
 
-# NOTA EL PROYECTO TIENE APORTES PROPIOS QUE NO SALEN EN EL TUTORIAL 
-# Bendiciones Gracias por Seguirme.
+<h3>NOTA: El proyecto tiene aportes propios que no aparecen en el tutorial</h3>
 
-# SOY APRENDIZ DEL -> Servicio Nacional de Aprendizaje | SENA
-# ADSI -> Análisis y Desarrollo de Sistemas de Información.
